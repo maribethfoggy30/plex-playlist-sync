@@ -32,3 +32,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Promo / marketing drafts — never upload these to GitHub
+REDDIT-POST.md
